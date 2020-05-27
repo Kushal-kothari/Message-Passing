@@ -1,4 +1,4 @@
--module(naive_tcp).
+-module(example_tcp).
 -compile(export_all).
 
 start_server(Port) ->
